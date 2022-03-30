@@ -6,7 +6,7 @@ Summary:	UFO font library
 Summary(pl.UTF-8):	Biblioteka do fontów UFO
 Name:		python3-ufoLib2
 Version:	0.12.1
-Release:	2
+Release:	3
 License:	Apache v2.0
 Group:		Libraries/Python
 #Source0Download: https://pypi.org/simple/ufoLib2/
